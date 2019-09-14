@@ -1,0 +1,34 @@
+footer {
+  background-color: #333333;
+  color: #fff;
+  line-height: 2;
+  font-family: 'Roboto', sans-serif;
+}
+footer h4 {
+  font-weight: bold;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+footer a:hover {
+  color: #08457b;
+  font-weight: bold;
+  text-decoration: none;
+}
+footer .google-img {
+  max-width: 150px;
+}
+.end-last a {
+  font-size: 0.8rem;
+}
+.end-last p {
+  font-size: 0.8rem;
+}
+.end-last hr {
+  background-color: black;
+}
+.ent-last .float-left {
+  height: 20px !important;
+  width: 500px !important;
+}

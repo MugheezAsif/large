@@ -1,0 +1,19 @@
+.community {
+  background-color: #7e7e7e;
+}
+.community .container {
+  padding: 0 !important;
+}
+.community button {
+  padding: 8px 20px;
+  background-color: #08457b;
+  color: #fff;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  margin-top: 1rem;
+}
+@media (max-width: 768px) {
+  .community {
+    text-align: center;
+  }
+}

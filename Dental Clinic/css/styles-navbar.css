@@ -1,0 +1,78 @@
+.navbar-top-1, .navbar-top-2 {
+  display: inline-block;
+  background-color: #fff;
+}
+.fixed-top {
+  padding: 0 !important;
+  width: 100vw;
+  background-color: #fff;
+}
+.navbar-main-top {
+  max-width: 1250px;
+  width: 100%;
+  margin: auto;
+  background-color: #fff;
+  font-family: 'Quicksand', sans-serif;
+  padding: 0;
+}
+.navbar-main-top a {
+  text-decoration: none;
+  color: black;
+  padding: 0 !important;
+  font-size: 1.1rem;
+}
+.navbar-main-top button {
+  padding: 10px 26px;
+  background-color: #08457b;
+  font-size: 1rem;
+  color: #fff;
+  border-radius: 0;
+  margin-bottom: 1rem;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
+.have-question {
+  color: #969696 !important;
+  font-weight: 400;
+  font-size: 1.2rem !important;
+}
+.navbar-top-0 {
+  float: left;
+}
+.navbar-expand-lg {
+  padding: 0 !important;
+}
+.navbar-top-1 {
+  padding-right: 1rem;
+}
+.navbar-top {
+  float: right;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
+.navbar-top-1 .icon-phone {
+  padding-right: 0.8rem;
+}
+.navbar-main-bottom {
+  max-height: 50px !important;
+  max-width: 1250px;
+  margin: auto;
+  font-family: 'Quicksand', sans-serif;
+}
+nav li {
+  border-top: 1px solid #dfdfdf;
+  background-color: #fff;
+}
+nav a {
+  padding: 9px 36px !important;
+  margin: auto !important;
+  display: inline-block !important;
+  font-size: 16px !important;
+  color: #00457b !important;
+}
+nav li {
+  border-right: 1px solid #dfdfdf;
+}
+nav .nav-last {
+  border-right: none;
+}

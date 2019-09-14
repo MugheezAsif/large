@@ -1,0 +1,40 @@
+.pho {
+  background-image: url(../images/cover-2.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.pho .container-2-text {
+  font-family: 'Saira Stencil One', cursive;
+}
+.pho .container-2-second-text {
+  font-family: 'Quicksand', sans-serif;
+}
+.pho .container-2-second-text h4 {
+  font-weight: bold;
+}
+.pho .container-2-2 button {
+  padding: 8px 20px;
+  background-color: #08457b;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+}
+@media (max-width: 768px) {
+  .pho .pho-cent {
+    text-align: center !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .container-2-text {
+    padding-bottom: 30px;
+  }
+  .pho .pho-cent p {
+    padding-bottom: 30px !important;
+  }
+}

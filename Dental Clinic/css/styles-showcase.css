@@ -1,0 +1,69 @@
+.showcase .container-1 {
+  position: relative;
+  top: 117px;
+  height: 81vh;
+  background-image: url(../images/cover-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.container-1-1 {
+  max-width: 500px;
+  text-align: left;
+  color: #fff;
+  margin-left: 13vw;
+  padding-top: 4rem;
+
+}
+.showcase-main-text {
+  font-family: 'Saira Stencil One', cursive;
+  letter-spacing: 1.5px;
+  font-size: 3rem;
+}
+.container-1-1 button {
+  padding: 10px 26px;
+  background-color: #08457b;
+  font-size: 1rem;
+  color: #fff;
+  border-radius: 0;
+  margin-bottom: 1rem;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  margin-top: 1.2rem;
+}
+@media (min-width: 1500px) {
+  .showcase-main-text {
+    font-size: 3.8rem;
+  }
+  .showcase h3 {
+    font-size: 2.1rem;
+  }
+  .container-1-1 button {
+    padding: 13px 30px;
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 760px) {
+  .showcase-main-text {
+    font-size: 2.3rem;
+    text-align: center;
+    padding-top: 60px;
+    margin-left: 5vw;
+  }
+  .showcase {
+    margin: auto;
+    text-align: center;
+  }
+  .showcase h3 {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .container-1-1 button {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    margin-left: 20vw;;
+  }
+}

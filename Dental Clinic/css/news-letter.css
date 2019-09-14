@@ -1,0 +1,13 @@
+.newsletter button {
+  padding: 8px 20px;
+  background-color: #08457b;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  margin-top: 1rem;
+}
+.newsletter {
+  background-color: #7e7e7e;
+  color: #fff;
+}
